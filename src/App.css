@@ -14,10 +14,22 @@
   }
 }
 
+.HeaderImage {
+  width: 150px;
+  border-radius: 75px;
+}
+
 .HeaderText {
   background-color: rgb(22, 22, 22);
-  width: 325px;
+  width: 175px;
   border-radius: 5px;
+  color: rgba(255, 255, 255, 0.664);
+  font-size: calc(20px + 2vmin);
+}
+
+.HeaderIcon {
+  color: rgb(255, 119, 142);
+  width: 25px;
 }
 
 .App-header {
@@ -26,12 +38,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: rgba(255, 255, 255, 0.664);
-}
-
-.App-link {
-  color: #61dafb;
 }
 
 @keyframes App-logo-spin {
