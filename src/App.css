@@ -21,7 +21,7 @@
 
 .HeaderText {
   background-color: rgb(22, 22, 22);
-  width: 175px;
+  width: 250px;
   border-radius: 5px;
   color: rgba(255, 255, 255, 0.664);
   font-size: calc(20px + 2vmin);
