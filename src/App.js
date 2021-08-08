@@ -1,5 +1,5 @@
 import './App.css';
-import headshot from './images/headshot.png'
+import headshot from './images/headshott.png'
 
 import * as Icon from "react-feather"
 
