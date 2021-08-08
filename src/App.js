@@ -21,13 +21,8 @@ function App() {
           </a>
           &nbsp;
           &nbsp;
-          <a href="mailto:davisridleyjordan@gmail.com">
+          <a href="mailto:davis@djordan.dev">
             <Icon.Mail className="HeaderIcon" />
-          </a>
-          &nbsp;
-          &nbsp;
-          <a href="tel:630-447-9532">
-            <Icon.PhoneCall className="HeaderIcon" />
           </a>
         </p>
       </header>
